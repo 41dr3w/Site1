@@ -1,0 +1,55 @@
+
+body {
+    
+    text-align: center;
+    background-image: linear-gradient(to right top, #9b0447, #a9135f, #b52479, #be3595, #c247b3, #b062d2, #977aec, #758fff, #05a8ff, #00bbff, #00cbf3, #20d7e0); 
+    background-attachment: fixed;
+
+
+}
+
+form input {
+    border: 1px inset rgba(167, 89, 125, 0.116);
+    margin: 4px;   
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.guia {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    border: 1px dotted rgba(76, 53, 160, 0.877);
+    margin: 20px auto;   
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.reg p {
+    margin-left: 35vw;
+    text-align: left; 
+}
+
+
+.sección {
+    border: 10px inset rgba(167, 89, 125, 0.158);
+    margin: 0 auto;   
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#textbox {
+    width: 400px;
+    height: 80px;
+    position: relative;
+    background-color: rgba(192, 36, 106, 0.301);
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
